@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there 👋, thanks for visiting my profile.
 
-<!--
-**neddy34/neddy34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+I am a _skilled_ and _passionate_ **Software Engineer** with over 6 years of experience in building and maintaining scalable applications. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I expertise in Full-Stack Development and agile methodologies in Web, Desktop, and Blockchain projects.
+I like to work at professional teams who value and respect all contributions of the team members.
+
+### 🔥 Programming Languages I love are;
+
+- Node.js, JS/TS
+- C/C++
+- Rust
+- Golang
+
+### 😇 Technical Stacks/Frameworks I used;
+
+- MERN Stack
+- Rust Actix
+- Golang GIN
+
+> I love solving difficult technical problems and share the ideas with teammates.
+>
+> You have projects to build?, then don't hesitate to touch me ✍
+
+## Contacts
+- [Telegram](https://t.me/neddy34)
+- [Skype](https://join.skype.com/invite/uFJzPadXknH0)
