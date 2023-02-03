@@ -27,3 +27,4 @@ I like to work at professional teams who value and respect all contributions of 
 ## Contacts
 - [Telegram](https://t.me/neddy34)
 - [Skype](https://join.skype.com/invite/uFJzPadXknH0)
+- [Discord](https://discordapp.com/users/1022055629898129478)
