@@ -14,6 +14,8 @@ I like to work at professional teams who value and respect all contributions of 
 - Rust
 - Golang
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neddy34&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 😇 Technical Stacks/Frameworks I used;
 
 - MERN Stack
