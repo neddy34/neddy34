@@ -24,7 +24,7 @@ I like to work at professional teams who value and respect all contributions of 
 
 > I love solving difficult technical problems and share the ideas with teammates.
 >
-> You have projects to build?, then don't hesitate to touch me ✍
+> You have projects to build?, then don't hesitate to get in touch with me ✍
 
 ## Contacts
 - [Telegram](https://t.me/neddy34)
